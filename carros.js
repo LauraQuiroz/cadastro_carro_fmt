@@ -32,3 +32,4 @@ class Carro {
   // Chamar a função para registrar um carro ao iniciar o programa
   registrarCarro();
   
+  
